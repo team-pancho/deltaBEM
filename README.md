@@ -1,9 +1,6 @@
-# deltaBEM
 ![GitHub Logo](/images/deltaBEMLogoWEB.gif)
-Format: ![Alt Text](url)
-Project website: [https://team-pancho.github.io/deltaBEM/](https://team-pancho.github.io/deltaBEM/)
 
-MATLAB-based suite for 2-D numerical computing with the boundary element method on smooth geometries and open arcs.
+This is a MATLAB-based suite for 2-D numerical computing with the boundary element method on smooth geometries and open arcs.
 
 deltaBEM achieves third order accuracy by using simple kernel evaluations with no assembly required. The potentials and operators of the Calderón Projector for Laplace, Helmholtz, as well as the steady state and time-harmonic linear elasticity equations are included. The package mimics the underlying Calderón Calculus at the discrete level so that most well-posed boundary integral equations can be discretized in a simple minded form.
 
@@ -21,3 +18,6 @@ The deltaBEM suite has developed over the years thanks to the joint efforts of a
 * Sijiang Lu, Graduate Student, University of Delaware (Contributed 2011-2013)
 
 Early ideas leading to the current configuration of deltaBEM appear in papers in collaboration with María-Luisa Rapún. Further development was done during summer research internships with freshmen graduate students Michael DePersio (2012, University of Delaware) and Douglas Freeman (2013, University of Delaware). Andrea Carosso, then a senior udergraduate student at the University of Delaware (currently a graduate student at UC-Boulder), participated during a summer program and an independent study course throughout the 2013 academic year.
+
+## More
+Project website: [https://team-pancho.github.io/deltaBEM/](https://team-pancho.github.io/deltaBEM/)
